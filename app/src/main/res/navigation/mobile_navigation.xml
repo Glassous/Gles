@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.glassous.gles.ui.home.HomeFragment"
+        android:label="@string/title_home" />
+    <fragment
+        android:id="@+id/navigation_manage"
+        android:name="com.glassous.gles.ui.manage.ManageFragment"
+        android:label="@string/title_manage" />
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.glassous.gles.ui.settings.SettingsFragment"
+        android:label="@string/title_settings" />
+</navigation>

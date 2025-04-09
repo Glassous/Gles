@@ -1,0 +1,27 @@
+<resources>
+<string name="app_name">Gles</string>
+<string name="title_home">主页</string>
+<string name="title_manage">管理</string>
+<string name="title_settings">设置</string>
+    <string name="current_url_label">当前网址：</string>
+    <string name="bookmark">一键收藏</string>
+    <string name="view_bookmarks">查看收藏夹</string>
+    <string name="view_history">查看历史记录</string>
+    <string name="url_input_hint">输入网址（例如 https://www.google.com）</string>
+    <string name="go">跳转</string>
+    <string name="bookmarks_label">收藏夹</string>
+    <string name="back">返回</string>
+    <string name="forward">前进</string>
+    <string name="refresh">刷新</string>
+    <string name="history_label">历史记录</string>
+    <string name="clear_history">清空历史记录</string>
+    <string name="toggle_history_off">关闭历史记录</string>
+    <string name="toggle_history_on">开启历史记录</string>
+    <string name="delete">删除</string>
+    <string name="settings_label">设置</string>
+    <string name="default_url_label">默认主页</string>
+    <string name="default_url_hint">输入默认主页（例如 https://www.bing.com）</string>
+    <string name="save_default_url">保存默认主页</string>
+    <string name="go_to_github">跳转到 GitHub</string>
+    <string name="go_to_github_me">关于作者</string>
+</resources>
